@@ -8,10 +8,10 @@ tags: [dfa, wicys]
 description: This is a post about my 2025 fall semster
 ---
 <p align="center">
-  <ing src="/assets/Untitled design (1).png" alt="Desgins" width="700">
+  <ing src="/assets/Untitled design (1).png"alt="Desgins"width="700">
 </p> 
 
-  ## Summary
+## Summary
  Follow along as I bulid more tech skills throughout my college career 
 ## Content
 For my sophmore year, I will be gaining experince through DFA! 
