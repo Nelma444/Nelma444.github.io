@@ -8,7 +8,7 @@ tags: [dfa, wicys]
 description: This is a post about my 2025 fall semster
 ---
 <p align="center">
-<ing src="/assets/Untitled design (1).png"alt="Desgins"width="700">
+   <ing src="/assets/Untitled design (1).png"alt="Desgins"width="700">
 </p> 
 
 ## Summary
